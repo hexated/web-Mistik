@@ -32,7 +32,7 @@
           Mari bantu saudara-saudara kita dengan mendonasikan
           sebagian<br> harta kita atau menjadi relawan.</p>
 
-        <a class="btn tombol1" href="">Donasi Sekarang</a><a class="btn tombol1" href="<?= base_url();?>formrelawan">Jadi
+        <a class="btn tombol1" href="<?= base_url();?>login_donatur">Donasi Sekarang</a><a class="btn tombol1" href="<?= base_url();?>formrelawan">Jadi
           Relawan</a>
       </div>
     </div>
